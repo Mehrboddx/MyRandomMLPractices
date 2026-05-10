@@ -6,3 +6,7 @@ machine_learning/Day1/pois_all_info
 machine_learning/Day1/NYC_POIs.zip
 machine_learning/Day2/Lab3/AmesHousing.csv
 machine_learning/Day2/Lab4/2d-synthetic.csv
+machine_learning/Day3/Linear regression/gt_test_dataset.csv
+.gitignore
+machine_learning/Day3/Linear regression/train_dataset.csv
+machine_learning/Day3/Linear regression/test_dataset.csv
