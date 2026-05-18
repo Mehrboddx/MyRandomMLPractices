@@ -10,3 +10,5 @@ machine_learning/Day3/Linear regression/gt_test_dataset.csv
 .gitignore
 machine_learning/Day3/Linear regression/train_dataset.csv
 machine_learning/Day3/Linear regression/test_dataset.csv
+machine_learning/Day4/pattern_mining/DS_MLL_Lab_07__Frequent_Pattern_Mining_.pdf
+machine_learning/Day4/pattern_mining/online_retail.csv
